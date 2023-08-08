@@ -195,5 +195,15 @@
     margin-top: -40px;
 }
 
+footer {
+    margin-top: 10px;
+    background-color: rgb(40, 51, 72);
+    height: 40px;
+    align-items: center;
+    color: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
 
 
